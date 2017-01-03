@@ -3,9 +3,9 @@ function Player() {
   this.x = 80;
   this.y = height / 2;
 
-  this.gravity = 0.5;
+  this.gravity = 0.6;
   this.speed = 0;
-  this.upForce = -15;
+  this.upForce = -20;
 
   this.dim = 20;
 
